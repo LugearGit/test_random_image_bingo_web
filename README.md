@@ -1,1 +1,0 @@
-# test_random_image_bingo_web
